@@ -1,0 +1,89 @@
+match_title,match_type,match_displayno,tee_time,team_won,win_score,team_id,player_name,player_id,player_country,hole_1_score,hole_2_score,hole_3_score,hole_4_score,hole_5_score,hole_6_score,hole_7_score,hole_8_score,hole_9_score,hole_10_score,hole_11_score,hole_12_score,hole_13_score,hole_14_score,hole_15_score,hole_16_score,hole_17_score,hole_18_score,match_id
+Friday Morning Foursomes,foursomes,1,7:35 AM,USA,Wins 3 & 2,13,Jordan Spieth,34046,USA,4,3,4,3,4,5,3,3,5,4,4,5,3,4,4,4,,,fri_fs_1
+Friday Morning Foursomes,foursomes,1,7:35 AM,USA,Wins 3 & 2,13,Patrick Reed,34360,USA,4,3,4,3,4,5,3,3,5,4,4,5,3,4,4,4,,,fri_fs_1
+Friday Morning Foursomes,foursomes,1,7:35 AM,USA,Wins 3 & 2,14,Henrik Stenson,21528,EUR,4,4,5,3,4,5,4,3,4,4,4,5,3,4,4,5,,,fri_fs_1
+Friday Morning Foursomes,foursomes,1,7:35 AM,USA,Wins 3 & 2,14,Justin Rose,22405,EUR,4,4,5,3,4,5,4,3,4,4,4,5,3,4,4,5,,,fri_fs_1
+Friday Morning Foursomes,foursomes,2,7:50 AM,USA,Wins 1Up,13,Phil Mickelson,01810,USA,4,4,4,4,4,7,3,2,3,4,6,4,3,4,4,4,2,4,fri_fs_2
+Friday Morning Foursomes,foursomes,2,7:50 AM,USA,Wins 1Up,13,Rickie Fowler,32102,USA,4,4,4,4,4,7,3,2,3,4,6,4,3,4,4,4,2,4,fri_fs_2
+Friday Morning Foursomes,foursomes,2,7:50 AM,USA,Wins 1Up,14,Rory McIlroy,28237,EUR,4,4,4,3,4,4,5,4,4,4,5,4,2,3,5,5,4,4,fri_fs_2
+Friday Morning Foursomes,foursomes,2,7:50 AM,USA,Wins 1Up,14,Andy Sullivan,35314,EUR,4,4,4,3,4,4,5,4,4,4,5,4,2,3,5,5,4,4,fri_fs_2
+Friday Morning Foursomes,foursomes,3,8:05 AM,USA,Wins 4 & 2,13,Jimmy Walker,25632,USA,5,5,5,3,4,5,3,3,4,4,5,4,2,3,4,4,,,fri_fs_3
+Friday Morning Foursomes,foursomes,3,8:05 AM,USA,Wins 4 & 2,13,Zach Johnson,24024,USA,5,5,5,3,4,5,3,3,4,4,5,4,2,3,4,4,,,fri_fs_3
+Friday Morning Foursomes,foursomes,3,8:05 AM,USA,Wins 4 & 2,14,Sergio Garcia,21209,EUR,5,4,5,3,4,5,3,3,4,4,5,5,3,4,5,5,,,fri_fs_3
+Friday Morning Foursomes,foursomes,3,8:05 AM,USA,Wins 4 & 2,14,Martin Kaymer,27408,EUR,5,4,5,3,4,5,3,3,4,4,5,5,3,4,5,5,,,fri_fs_3
+Friday Morning Foursomes,foursomes,4,8:20 AM,USA,Wins 5 & 4,13,Dustin Johnson,30925,USA,4,4,5,3,3,5,4,2,5,4,4,4,3,3,,,,,fri_fs_4
+Friday Morning Foursomes,foursomes,4,8:20 AM,USA,Wins 5 & 4,13,Matt Kuchar,23108,USA,4,4,5,3,3,5,4,2,5,4,4,4,3,3,,,,,fri_fs_4
+Friday Morning Foursomes,foursomes,4,8:20 AM,USA,Wins 5 & 4,14,Lee Westwood,20396,EUR,5,5,5,3,4,5,6,3,4,4,4,4,4,3,,,,,fri_fs_4
+Friday Morning Foursomes,foursomes,4,8:20 AM,USA,Wins 5 & 4,14,Thomas Pieters,33293,EUR,5,5,5,3,4,5,6,3,4,4,4,4,4,3,,,,,fri_fs_4
+Friday Afternoon Four-Ball,fourball,1,12:30 PM,EUR,Wins 5 & 4,13,Jordan Spieth,34046,USA,,3,,,3,,4,,,4,4,,3,4,,,,,fri_fb_1
+Friday Afternoon Four-Ball,fourball,1,12:30 PM,EUR,Wins 5 & 4,13,Patrick Reed,34360,USA,3,,4,4,,4,,3,4,,,5,,,,,,,fri_fb_1
+Friday Afternoon Four-Ball,fourball,1,12:30 PM,EUR,Wins 5 & 4,14,Justin Rose,22405,EUR,4,,4,,3,,,,,,4,4,,3,,,,,fri_fb_1
+Friday Afternoon Four-Ball,fourball,1,12:30 PM,EUR,Wins 5 & 4,14,Henrik Stenson,21528,EUR,,3,,3,,4,3,2,4,4,,,2,,,,,,fri_fb_1
+Friday Afternoon Four-Ball,fourball,2,12:45 PM,EUR,Wins 3 & 2,13,J. B. Holmes,27141,USA,4,4,5,,4,,,3,,,4,4,,,,5,,,fri_fb_2
+Friday Afternoon Four-Ball,fourball,2,12:45 PM,EUR,Wins 3 & 2,13,Ryan Moore,26596,USA,,,,3,,5,4,,4,3,,,3,3,3,,,,fri_fb_2
+Friday Afternoon Four-Ball,fourball,2,12:45 PM,EUR,Wins 3 & 2,14,Sergio Garcia,21209,EUR,,4,,3,3,,,,3,3,4,4,3,,4,4,,,fri_fb_2
+Friday Afternoon Four-Ball,fourball,2,12:45 PM,EUR,Wins 3 & 2,14,Rafa Cabrera Bello,26499,EUR,3,,5,,,4,4,3,,,,,,4,,,,,fri_fb_2
+Friday Afternoon Four-Ball,fourball,3,1:00 PM,USA,Wins 5 & 4,13,Brandt Snedeker,27649,USA,,3,,3,4,4,4,,4,3,4,4,3,,,,,,fri_fb_3
+Friday Afternoon Four-Ball,fourball,3,1:00 PM,USA,Wins 5 & 4,13,Brooks Koepka,36689,USA,3,,4,,,,,2,,,,,,4,,,,,fri_fb_3
+Friday Afternoon Four-Ball,fourball,3,1:00 PM,USA,Wins 5 & 4,14,Martin Kaymer,27408,EUR,,,,,,,,,,4,,4,,4,,,,,fri_fb_3
+Friday Afternoon Four-Ball,fourball,3,1:00 PM,USA,Wins 5 & 4,14,Danny Willett,32139,EUR,3,4,5,3,4,5,4,3,3,,5,,3,,,,,,fri_fb_3
+Friday Afternoon Four-Ball,fourball,4,1:15 PM,EUR,Wins 3 & 2,13,Dustin Johnson,30925,USA,5,3,4,,,,4,3,4,3,4,4,3,,3,,,,fri_fb_4
+Friday Afternoon Four-Ball,fourball,4,1:15 PM,EUR,Wins 3 & 2,13,Matt Kuchar,23108,USA,,,,3,4,5,,,,,,,,4,,4,,,fri_fb_4
+Friday Afternoon Four-Ball,fourball,4,1:15 PM,EUR,Wins 3 & 2,14,Rory McIlroy,28237,EUR,,4,4,,3,4,,3,4,3,5,,,5,,3,,,fri_fb_4
+Friday Afternoon Four-Ball,fourball,4,1:15 PM,EUR,Wins 3 & 2,14,Thomas Pieters,33293,EUR,4,,,2,,,3,,,,,4,2,,4,,,,fri_fb_4
+Saturday Morning Foursomes,foursomes,1,7:35 AM,EUR,Wins 4 & 2,13,Rickie Fowler,32102,USA,3,4,5,4,5,5,4,3,4,3,5,4,3,5,4,5,,,sat_fs_1
+Saturday Morning Foursomes,foursomes,1,7:35 AM,EUR,Wins 4 & 2,13,Phil Mickelson,01810,USA,3,4,5,4,5,5,4,3,4,3,5,4,3,5,4,5,,,sat_fs_1
+Saturday Morning Foursomes,foursomes,1,7:35 AM,EUR,Wins 4 & 2,14,Rory McIlroy,28237,EUR,3,3,5,3,3,5,4,3,5,4,4,5,3,4,3,4,,,sat_fs_1
+Saturday Morning Foursomes,foursomes,1,7:35 AM,EUR,Wins 4 & 2,14,Thomas Pieters,33293,EUR,3,3,5,3,3,5,4,3,5,4,4,5,3,4,3,4,,,sat_fs_1
+Saturday Morning Foursomes,foursomes,2,7:50 AM,USA,Wins 3 & 2,13,Brandt Snedeker,27649,USA,4,4,5,3,3,5,4,3,4,4,5,5,2,3,3,4,,,sat_fs_2
+Saturday Morning Foursomes,foursomes,2,7:50 AM,USA,Wins 3 & 2,13,Brooks Koepka,36689,USA,4,4,5,3,3,5,4,3,4,4,5,5,2,3,3,4,,,sat_fs_2
+Saturday Morning Foursomes,foursomes,2,7:50 AM,USA,Wins 3 & 2,14,Henrik Stenson,21528,EUR,5,4,5,4,3,5,3,3,4,4,4,5,3,3,4,6,,,sat_fs_2
+Saturday Morning Foursomes,foursomes,2,7:50 AM,USA,Wins 3 & 2,14,Matt Fitzpatrick,40098,EUR,5,4,5,4,3,5,3,3,4,4,4,5,3,3,4,6,,,sat_fs_2
+Saturday Morning Foursomes,foursomes,3,8:05 AM,EUR,Wins 1Up,13,Jimmy Walker,25632,USA,4,4,4,3,4,6,4,3,4,4,5,4,4,3,4,4,3,4,sat_fs_3
+Saturday Morning Foursomes,foursomes,3,8:05 AM,EUR,Wins 1Up,13,Zach Johnson,24024,USA,4,4,4,3,4,6,4,3,4,4,5,4,4,3,4,4,3,4,sat_fs_3
+Saturday Morning Foursomes,foursomes,3,8:05 AM,EUR,Wins 1Up,14,Justin Rose,22405,EUR,4,4,4,3,4,6,3,3,4,3,5,4,3,4,4,5,3,4,sat_fs_3
+Saturday Morning Foursomes,foursomes,3,8:05 AM,EUR,Wins 1Up,14,Chris Wood,22000,EUR,4,4,4,3,4,6,3,3,4,3,5,4,3,4,4,5,3,4,sat_fs_3
+Saturday Morning Foursomes,foursomes,4,8:20 AM,,Halved,13,Patrick Reed,34360,USA,3,3,4,3,3,5,3,3,4,4,5,3,4,5,5,5,3,4,sat_fs_4
+Saturday Morning Foursomes,foursomes,4,8:20 AM,,Halved,13,Jordan Spieth,34046,USA,3,3,4,3,3,5,3,3,4,4,5,3,4,5,5,5,3,4,sat_fs_4
+Saturday Morning Foursomes,foursomes,4,8:20 AM,,Halved,14,Sergio Garcia,21209,EUR,3,4,5,3,3,6,3,3,4,4,6,3,3,5,4,4,2,4,sat_fs_4
+Saturday Morning Foursomes,foursomes,4,8:20 AM,,Halved,14,Rafa Cabrera Bello,26499,EUR,3,4,5,3,3,6,3,3,4,4,6,3,3,5,4,4,2,4,sat_fs_4
+Saturday Afternoon Four-Ball,fourball,1,12:30 PM,EUR,Wins 3 & 1,13,Brooks Koepka,36689,USA,,4,4,3,,,3,,,3,,,,4,,4,,,sat_fb_1
+Saturday Afternoon Four-Ball,fourball,1,12:30 PM,EUR,Wins 3 & 1,13,Dustin Johnson,30925,USA,4,,,,3,4,,4,4,,4,3,3,,3,,3,,sat_fb_1
+Saturday Afternoon Four-Ball,fourball,1,12:30 PM,EUR,Wins 3 & 1,14,Rory McIlroy,28237,EUR,,3,,3,,,3,,3,3,,,,,,,,,sat_fb_1
+Saturday Afternoon Four-Ball,fourball,1,12:30 PM,EUR,Wins 3 & 1,14,Thomas Pieters,33293,EUR,4,,4,,2,4,,3,,,5,4,2,3,4,5,2,,sat_fb_1
+Saturday Afternoon Four-Ball,fourball,2,12:45 PM,USA,Wins 1Up,13,J. B. Holmes,27141,USA,4,3,4,,3,,4,3,3,,4,4,2,4,4,4,,4,sat_fb_2
+Saturday Afternoon Four-Ball,fourball,2,12:45 PM,USA,Wins 1Up,13,Ryan Moore,26596,USA,,,,3,,4,,,,4,,,,,,,3,,sat_fb_2
+Saturday Afternoon Four-Ball,fourball,2,12:45 PM,USA,Wins 1Up,14,Danny Willett,32139,EUR,4,3,4,3,,,,3,,,4,4,,4,4,4,4,4,sat_fb_2
+Saturday Afternoon Four-Ball,fourball,2,12:45 PM,USA,Wins 1Up,14,Lee Westwood,20396,EUR,,,,,3,4,3,,4,3,,,3,,,,,,sat_fb_2
+Saturday Afternoon Four-Ball,fourball,3,1:04 PM,USA,Wins 2 & 1,13,Phil Mickelson,01810,USA,,,4,,,,4,,,3,,4,,3,3,5,2,,sat_fb_3
+Saturday Afternoon Four-Ball,fourball,3,1:04 PM,USA,Wins 2 & 1,13,Matt Kuchar,23108,USA,3,3,,3,3,5,,3,4,,5,,2,,,,,,sat_fb_3
+Saturday Afternoon Four-Ball,fourball,3,1:04 PM,USA,Wins 2 & 1,14,Martin Kaymer,27408,EUR,3,,5,4,,5,,3,4,4,5,,3,,3,,,,sat_fb_3
+Saturday Afternoon Four-Ball,fourball,3,1:04 PM,USA,Wins 2 & 1,14,Sergio Garcia,21209,EUR,,3,,,3,,3,,,,,3,,4,,4,2,,sat_fb_3
+Saturday Afternoon Four-Ball,fourball,4,1:19 PM,USA,Wins 2 & 1,13,Patrick Reed,34360,USA,4,,4,,3,3,3,2,4,4,5,,,3,3,,,,sat_fb_4
+Saturday Afternoon Four-Ball,fourball,4,1:19 PM,USA,Wins 2 & 1,13,Jordan Spieth,34046,USA,,3,,3,,,,,,,,4,3,,,4,3,,sat_fb_4
+Saturday Afternoon Four-Ball,fourball,4,1:19 PM,USA,Wins 2 & 1,14,Justin Rose,22405,EUR,,,4,,4,,4,,4,,,,2,,,,3,,sat_fb_4
+Saturday Afternoon Four-Ball,fourball,4,1:19 PM,USA,Wins 2 & 1,14,Henrik Stenson,21528,EUR,3,3,,3,,4,,3,,4,5,3,,4,4,3,,,sat_fb_4
+Sunday Singles,singles,1,11:04 AM,USA,Wins 1Up,13,Patrick Reed,34360,USA,4,4,5,3,2,4,3,2,5,4,5,4,4,4,4,4,4,3,sun_sing_1
+Sunday Singles,singles,1,11:04 AM,USA,Wins 1Up,14,Rory McIlroy,28237,EUR,4,4,4,3,3,4,3,2,5,4,5,5,4,4,4,5,3,3,sun_sing_1
+Sunday Singles,singles,2,11:15 AM,EUR,Wins 3 & 2,13,Jordan Spieth,34046,USA,3,4,5,3,3,4,4,3,4,4,5,4,4,4,3,4,,,sun_sing_2
+Sunday Singles,singles,2,11:15 AM,EUR,Wins 3 & 2,14,Henrik Stenson,21528,EUR,4,4,4,3,4,4,4,2,3,4,4,5,2,4,3,3,,,sun_sing_2
+Sunday Singles,singles,3,11:26 AM,EUR,Wins 3 & 2,13,J. B. Holmes,27141,USA,4,3,5,3,4,5,4,4,3,3,5,4,3,4,4,5,,,sun_sing_3
+Sunday Singles,singles,3,11:26 AM,EUR,Wins 3 & 2,14,Thomas Pieters,33293,EUR,5,4,4,2,5,5,3,3,4,3,4,4,3,3,4,4,,,sun_sing_3
+Sunday Singles,singles,4,11:37 AM,USA,Wins 1Up,13,Rickie Fowler,32102,USA,5,3,5,3,4,4,3,3,4,4,5,5,3,4,4,4,3,4,sun_sing_4
+Sunday Singles,singles,4,11:37 AM,USA,Wins 1Up,14,Justin Rose,22405,EUR,3,3,5,3,4,4,5,2,4,5,5,5,3,4,4,5,3,4,sun_sing_4
+Sunday Singles,singles,5,11:48 AM,EUR,Wins 3 & 2,13,Jimmy Walker,25632,USA,4,4,5,4,3,4,4,3,5,3,4,3,3,3,5,6,,,sun_sing_5
+Sunday Singles,singles,5,11:48 AM,EUR,Wins 3 & 2,14,Rafa Cabrera Bello,26499,EUR,4,4,4,3,3,4,4,3,4,4,4,4,2,3,5,5,,,sun_sing_5
+Sunday Singles,singles,6,11:59 AM,,Halved,13,Phil Mickelson,01810,USA,4,3,4,2,3,5,3,3,4,4,6,3,3,3,3,5,2,3,sun_sing_6
+Sunday Singles,singles,6,11:59 AM,,Halved,14,Sergio Garcia,21209,EUR,3,3,5,3,3,4,4,3,4,3,5,4,3,4,3,4,2,3,sun_sing_6
+Sunday Singles,singles,7,12:10 PM,USA,Wins 1Up,13,Ryan Moore,26596,USA,6,4,4,3,3,4,4,3,4,4,5,5,3,5,4,3,2,4,sun_sing_7
+Sunday Singles,singles,7,12:10 PM,USA,Wins 1Up,14,Lee Westwood,20396,EUR,4,4,5,3,4,4,4,3,3,4,5,5,3,4,3,4,3,5,sun_sing_7
+Sunday Singles,singles,8,12:21 PM,USA,Wins 3 & 1,13,Brandt Snedeker,27649,USA,4,4,5,2,3,5,3,2,5,4,5,4,3,5,4,4,2,,sun_sing_8
+Sunday Singles,singles,8,12:21 PM,USA,Wins 3 & 1,14,Andy Sullivan,35314,EUR,3,4,4,3,4,5,4,3,4,4,5,5,3,5,4,4,4,,sun_sing_8
+Sunday Singles,singles,9,12:32 PM,USA,Wins 1Up,13,Dustin Johnson,30925,USA,3,4,4,3,4,4,5,2,4,3,4,4,3,5,3,5,3,4,sun_sing_9
+Sunday Singles,singles,9,12:32 PM,USA,Wins 1Up,14,Chris Wood,22000,EUR,3,3,4,4,3,5,5,3,4,4,4,4,3,4,4,4,3,4,sun_sing_9
+Sunday Singles,singles,10,12:43 PM,USA,Wins 5 & 4,13,Brooks Koepka,36689,USA,4,4,5,3,3,4,2,3,4,3,4,4,3,4,,,,,sun_sing_10
+Sunday Singles,singles,10,12:43 PM,USA,Wins 5 & 4,14,Danny Willett,32139,EUR,4,3,5,3,3,5,4,3,5,4,5,4,4,4,,,,,sun_sing_10
+Sunday Singles,singles,11,12:54 PM,EUR,Wins 1Up,13,Matt Kuchar,23108,USA,4,3,5,3,3,4,3,3,4,4,5,4,4,4,4,4,3,4,sun_sing_11
+Sunday Singles,singles,11,12:54 PM,EUR,Wins 1Up,14,Martin Kaymer,27408,EUR,4,3,5,3,4,5,4,3,3,4,5,4,3,3,3,4,3,4,sun_sing_11
+Sunday Singles,singles,12,1:05 PM,USA,Wins 4 & 3,13,Zach Johnson,24024,USA,4,4,5,3,4,4,4,3,4,3,5,4,3,4,3,,,,sun_sing_12
+Sunday Singles,singles,12,1:05 PM,USA,Wins 4 & 3,14,Matt Fitzpatrick,40098,EUR,5,4,5,4,3,4,4,2,5,4,5,5,3,4,4,,,,sun_sing_12
